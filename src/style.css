@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #ffffff;
+}
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.logo {
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border: 2px solid black;
+  border-radius: 30px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-google {
+  background-color: #ffffff;
+  color: #1da1f2;
+}
+
+.btn-apple {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.btn-create {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.or {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.text {
+  font-size: 12px;
+  color: #8e8e8e;
+  margin-top: 20px;
+}
+
+.text a {
+  color: #1da1f2;
+  text-decoration: none;
+  margin-left: 5px;
+}
